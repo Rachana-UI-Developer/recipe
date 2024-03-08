@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+.menu{
+    &-item{
+        display: block;
+    }
+    &-link{
+        text-decoration: none;
+    }
+}
